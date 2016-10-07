@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JavaScript</title>
+        <script type="text/javascript">
+            var today = new Date();
+            var num1 = 2.55
+            
+            document.write("Today's Date" + today);
+            document.write("<br>Today's Month " + parseInt(today.getMonth()));
+            document.write("<br>Today's Year " + parseInt(today.getFullYear()));
+            document.write("<br>Rounding Up "+Math.ceil(num1));
+            document.write("<br>Rounding Down "+Math.floor(num1));
+            
+            function greetings()
+            {
+                alert("Working");
+                var buttonobj = document.getElementById("greet");
+                buttonobj.textContent = "Click Mee";
+            }
+        </script>
+    </head>
+    
+    <body>
+        <form>
+            <input type="text" id="username" name="username" required>
+            <button id="greet" onclick="greetings()">Click Me!</button>
+        </form>
+    </body>
+</html>

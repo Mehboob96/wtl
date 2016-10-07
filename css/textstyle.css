@@ -1,0 +1,65 @@
+body{
+    background-image: url("../img/strip.png");
+    background-repeat: repeat;
+    
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#container{
+    
+    background-color: #f7f7f7;
+    border-radius: 10px; 
+}
+
+p{
+    
+    text-align: justify;
+    padding: 10px;
+    line-height: 1.5em;
+}
+
+h3{
+    
+    text-transform: capitalize;
+    padding: 10px;
+}
+
+p:first-letter{
+    
+    font-size: 1.5em;
+}
+p:first-line{
+    
+    font-style: bold;
+}
+
+h1{
+    word-spacing: 0.5em;
+}
+#left,#right{
+    
+    background-color: antiquewhite;
+    border-radius:10px; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+
+a{
+    text-decoration: none;
+}
+a:hover{
+    
+    text-decoration: underline;
+}
+a:visited{
+    color:black;
+    
+}
+
+#email
+{
+    padding: 10px;
+}

@@ -1,0 +1,57 @@
+#logo{
+    display: block;
+    margin: 0 auto;
+}
+nav {
+    background-color: #5f5f5f;
+    position: fixed;
+    width: 100%;
+    margin-left: -0.5em;
+    z-index: 10;
+}
+nav>ul li{
+    list-style: none;
+    display: inline;
+}
+nav>ul li a{
+    text-decoration: none;
+    font-size: 1.5em;
+    margin-left: 4em;
+    color: white;
+}
+#content{
+    margin-top: 5em;
+}
+footer {
+    position: fixed;
+    background-color: #5f5f5f;
+    width: 100%;
+    bottom: 0;
+}
+
+#left{
+    position: relative;
+    float: left;
+    width: 20%;
+}
+#right{
+    position: relative;
+    float: right;
+    width: 75%;
+    margin-left: 3em;
+}
+#news{
+    border:3px dotted blue;
+    border-radius: 5px;
+    padding: 10px;
+}
+#news>span{
+    display: block;
+    color:blue;
+    text-align: center;
+    font-size: 1.2em;
+}
+blockquote{
+    background-color: yellow;
+    padding: 10px;
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marksheet>
+	
+	<course>
+		<courseid>AOA68</courseid>
+		<title>AOA</title>
+		<TH>62</TH>
+		<IA>15</IA>
+		<ORPR>15</ORPR>
+		<TW>20</TW>
+		<TOTAL>112</TOTAL>
+	</course>
+	
+	<course>
+		<courseid>OOPM68</courseid>
+		<title>OOPM</title>
+		<TH>58</TH>
+		<IA>17</IA>
+		<ORPR>15</ORPR>
+		<TW>18</TW>
+		<TOTAL>108</TOTAL>
+	</course>
+
+	<course>
+		<courseid>M468</courseid>
+		<title>M4</title>
+		<TH>55</TH>
+		<IA>15</IA>
+		<ORPR>--</ORPR>
+		<TW>20</TW>
+		<TOTAL>90</TOTAL>
+	</course>
+
+	<course>
+		<courseid>COA68</courseid>
+		<title>COA</title>
+		<TH>58</TH>
+		<IA>19</IA>
+		<ORPR>20</ORPR>
+		<TW>20</TW>
+		<TOTAL>117</TOTAL>
+	</course>
+	
+	<course>
+		<courseid>DSU68</courseid>
+		<title>DSU</title>
+		<TH>59</TH>
+		<IA>15</IA>
+		<ORPR>20</ORPR>
+		<TW>19</TW>
+		<TOTAL>113</TOTAL>
+	</course>
+	
+	<course>
+		<courseid>TCS68</courseid>
+		<title>TCS</title>
+		<TH>62</TH>
+		<IA>18</IA>
+		<ORPR>--</ORPR>
+		<TW>20</TW>
+		<TOTAL>100</TOTAL>
+	</course>
+	
+	<course>
+		<courseid>DIS68</courseid>
+		<title>DIS</title>
+		<TH>55</TH>
+		<IA>17</IA>
+		<ORPR>--</ORPR>
+		<TW>18</TW>
+		<TOTAL>90</TOTAL>
+	</course>
+	
+
+</marksheet>
